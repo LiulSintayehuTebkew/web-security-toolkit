@@ -2,7 +2,7 @@ import requests
 import os
 
 API_KEY = os.environ.get("VT_API_KEY", "")
-
+ 
 def check_ip(ip):
     if not API_KEY:
         print("Set your API key: export VT_API_KEY=your_key")
