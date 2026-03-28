@@ -1,5 +1,5 @@
 import requests
-
+ 
 SECURITY_HEADERS = [
     "Content-Security-Policy",
     "X-Frame-Options",
