@@ -1,6 +1,6 @@
 import requests
 import time
-
+ 
 WORDLIST = [
     "admin", "login", "backup", "config", "dashboard",
     "api", "upload", "shell.php", "wp-admin", ".env",
