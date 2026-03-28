@@ -1,5 +1,5 @@
 import requests
-
+ 
 def send_request(newValue):
     session = requests.Session()
 
