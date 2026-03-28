@@ -1,5 +1,5 @@
 import socket
-
+ 
 def forward_lookup(hostname):
     try:
         ip = socket.gethostbyname(hostname)
